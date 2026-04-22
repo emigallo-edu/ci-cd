@@ -2833,7 +2833,6 @@ Propiedades clave:
 BDD conecta las pruebas de aceptación automatizadas con los criterios de aceptación del producto.
 Cuando las pruebas de aceptación se derivan directamente de los criterios acordados con negocio, la automatización deja de ser una actividad de QA y pasa a ser parte del contrato de "terminado".
 
-
 ##### Diferencias y complementariedad
 
 | | TDD | BDD |
